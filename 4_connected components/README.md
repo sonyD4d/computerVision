@@ -6,7 +6,8 @@
 https://elib.dlr.de/100363/1/published_version.pdf
 
 ## Application
-- find number of moves completed in tic/tac/toe game using component labeling 
+
+    - find number of moves completed in tic/tac/toe game using component labeling 
 
 ## Output
 ![image](https://user-images.githubusercontent.com/20265851/140654097-aa5bd551-856d-47aa-8620-94ef7f9e4315.png)
